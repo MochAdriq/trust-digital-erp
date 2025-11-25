@@ -21,4 +21,6 @@ An internal Enterprise Resource Planning (ERP) system designed to streamline the
 * **Charts:** Recharts
 
 ## 📸 Gallery
-<img width="1080" height="2400" alt="Screenshot_1763300035" src="https://github.com/user-attachments/assets/a47e4036-05ec-4f10-958c-7d9bb8d04b87" />
+<img width="1920" height="1200" alt="Screenshot 2025-11-25 091147" src="https://github.com/user-attachments/assets/80f8ec84-71a9-4f9c-9827-c9a3c4fa5023" />
+<img width="1920" height="1200" alt="Screenshot 2025-11-25 091216" src="https://github.com/user-attachments/assets/ea6f4032-2063-4b64-8e01-6278afd9adfa" />
+
